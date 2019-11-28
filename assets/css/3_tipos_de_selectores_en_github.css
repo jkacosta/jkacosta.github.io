@@ -1,0 +1,17 @@
+      h1{
+  background-color: orange;
+        outline: 4px orange dotted;
+ 
+} 
+
+      body>main>section>h2{
+  background-color: red;
+        outline: 4px red dotted;
+ 
+} 
+
+      main>section>h3{
+  background-color: green;
+        outline: 4px green dotted;
+
+} 
