@@ -1,0 +1,55 @@
+h2 {
+    height: 10%;
+}
+ h3{height: 8%;
+ }
+
+h1, h2, h3, h4, h5, h6 {font-family:Charcoal, sans-serif;
+}
+p {font-size: 	1rem; 
+	font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+}
+body>center>h3 {background-color: 	grey;
+		box-shadow: 10px 15px 15px rgba(173,173,173,1)
+
+}
+body>h3 {background-color: 	grey;
+	box-shadow: 10px 15px 15px rgba(173,173,173,1)
+}
+
+div>h2 {
+	text-shadow: 10px 10px 15px grey; 
+
+}
+
+.c1 {background-color: 	grey;
+	box-shadow: 10px 15px 15px rgba(173,173,173,1)
+	
+}
+.rest>h2 {background-color: 	grey;
+	box-shadow: 10px 15px 15px rgba(173,173,173,1)
+	
+}
+.rest>h3 {background-color: 	grey;
+	box-shadow: 10px 15px 15px rgba(173,173,173,1)
+	
+}
+
+.column1>h3 {text-shadow: 10px 10px 15px grey; 
+}
+.column1>h6 {text-shadow: 10px 10px 15px grey; 
+}
+div>h3 {text-shadow: 10px 10px 15px grey; 
+
+}
+
+:link {
+    color: #b4ff00;
+}
+:visited {
+    color: #36dd00;
+}
+
+ a {
+    color: yellow 
+}
