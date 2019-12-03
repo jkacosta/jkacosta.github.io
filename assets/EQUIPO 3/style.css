@@ -9,3 +9,14 @@ h1, h2, h3, h4, h5, h6 {font-family:Charcoal, sans-serif;
 p {font-size: 	1.5rem; 
 	font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
 }
+
+:visited {
+    color: yellow;
+}
+:link {
+    color: yellow;
+}
+
+a {
+    color: yellow;
+}
